@@ -1,4 +1,4 @@
-window.onresize = displayCurrentSize()
+window.onresize = displayCurrentSize;
 displayCurrentSize()
 
 function displayCurrentSize(){
